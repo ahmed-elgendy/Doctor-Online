@@ -183,6 +183,8 @@ h1, h2, h3, h4, h5, h6 {
 /**
 * Appointment Button *
 */
+
+
 .appointment-btn {
   margin-left: 25px;
   background: #1977cc;
@@ -193,6 +195,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
+  font-weight: bold;
 }
 .appointment-btn:hover {
   background: #166ab5;
